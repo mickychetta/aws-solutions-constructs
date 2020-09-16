@@ -16,7 +16,7 @@ import { Stack } from "@aws-cdk/core";
 import * as kms from "@aws-cdk/aws-kms";
 import * as lambda from "@aws-cdk/aws-lambda";
 import { LambdaToSagemaker } from '../lib';
-import { SynthUtils } from '@aws-cdk/assert';
+// import { SynthUtils } from '@aws-cdk/assert';
 import '@aws-cdk/assert/jest';
 
 // --------------------------------------------------------------
